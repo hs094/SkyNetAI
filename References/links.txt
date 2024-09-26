@@ -1,0 +1,6 @@
+Torch GEO-> https://www.kaggle.com/code/luizclaudioandrade/torchgeo-101
+Hadoop Big Data-> https://github.com/Esri/gis-tools-for-hadoop/tree/master
+Microsoft Geospatial Machine Learning-> https://www.microsoft.com/en-us/research/project/geospatial-machine-learning/
+https://www.microsoft.com/en-us/research/publication/turkey-earthquake-report/
+https://www.kaggle.com/code/luizclaudioandrade/torchgeo-101
+https://www.kaggle.com/code/chrisnick92/deeplearning-on-landcoverai
